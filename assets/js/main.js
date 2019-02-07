@@ -22,7 +22,7 @@
 
     $window.scroll(function() {
       if (stickyNav.length > 0) {
-        if ($window.scrollTop() > 300) {
+        if ($window.scrollTop() > 150) {
           stickyNav.addClass("fixed");
         } else {
           stickyNav.removeClass("fixed");
