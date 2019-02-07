@@ -176,6 +176,7 @@ body {
 .pri-btn.st-2 {
   background-color: #2c443d;
   color: #fff;
+  display: inline-block;
 }
 .pri-btn.st-2:hover {
   color: #fff;
