@@ -72,9 +72,11 @@
   }
   #hero-area .content h3 {
     font-size: 22px;
+    padding: 20px;
   }
   #hero-area .content p {
     font-size: 15px;
+    padding: 20px;
   }
   .dis-xs-none {
     display: none;
