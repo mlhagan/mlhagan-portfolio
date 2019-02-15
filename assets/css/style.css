@@ -170,6 +170,7 @@ body {
   margin: 0 10px;
   color: #2c443d;
   display: inline-block;
+  max-width: 160px;
 }
 .pri-btn:hover {
   color: #2c443d;
