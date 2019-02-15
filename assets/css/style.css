@@ -101,7 +101,7 @@ body {
 #hero-area .content {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   justify-content: center;
   color: #fff;
   text-align: left;
@@ -115,7 +115,7 @@ body {
   content: "";
   position: absolute;
   bottom: -26px;
-  left: 50%;
+  left: 40%;
   -webkit-transform: translate(-50%, 0);
           transform: translate(-50%, 0);
   width: 80%;
