@@ -273,7 +273,7 @@ body {
   text-align: right;
   margin: 0;
   padding: 10px;
-  font-weight: 700;
+  font-weight: 500;
   font-size: 16px;
 }
 .linkedin {
@@ -291,7 +291,7 @@ body {
 .fa.fa-github,
 .fa.fa-dribbble {
   line-height: 1;
-  font-weight: 700;
+  font-weight: 500;
 }
 .fa.fa-github {
   font-size: 32px;
