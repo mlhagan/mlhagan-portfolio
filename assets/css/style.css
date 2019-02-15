@@ -222,8 +222,8 @@ body {
      object-fit: cover;
 }
 #footer {
-  background-color: #b2941a;
-  color: #2c443d;
+  background-color: #2C443D;
+  color: #ffffff;
   padding: 15px;
   margin-bottom: 20px;
 }
@@ -241,7 +241,7 @@ body {
 #footer-menu ul li a {
   display: block;
   padding: 5px 12px;
-  color: #2c443d;
+  color: #ffffff;
 }
 
 .social-menu {
@@ -261,7 +261,7 @@ body {
 
 .social-menu li a {
   display: block;
-  color: #2c443d;
+  color: #ffffff;
 }
 
 #footer-menu {
@@ -277,7 +277,7 @@ body {
   font-size: 16px;
 }
 .linkedin {
-  background-color: #2c443d;
+  background-color: #2C443D;
   border-radius: 30px;
   width: 30px;
   height: 30px;
@@ -286,7 +286,7 @@ body {
 }
 .linkedin i {
   padding: 6px 0 0 8px;
-  color: #b2941a;
+  color: #ffffff;
 }
 .fa.fa-github,
 .fa.fa-dribbble {
@@ -326,7 +326,7 @@ body {
 }
 .content-box .linkedin i {
   padding: 10px 0 0 0;
-  color: #d5c582;
+  color: #ffffff;
   font-size: 20px;
 }
 
