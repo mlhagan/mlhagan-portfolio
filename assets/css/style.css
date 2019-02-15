@@ -277,7 +277,7 @@ body {
   font-size: 16px;
 }
 .linkedin {
-  background-color: #2C443D;
+  background-color: #ffffff;
   border-radius: 30px;
   width: 30px;
   height: 30px;
@@ -286,7 +286,7 @@ body {
 }
 .linkedin i {
   padding: 6px 0 0 8px;
-  color: #ffffff;
+  color: #2C443D;
 }
 .fa.fa-github,
 .fa.fa-dribbble {
