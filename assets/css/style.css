@@ -56,6 +56,15 @@ a:hover {
   padding: 15px 24px;
   color: #fff;
 }
+
+#main-menu ul li a:hover {
+  color: #b56974;
+}
+
+#main-menu ul li a:active {
+  color: #deb923;
+}
+
 html,
 body {
   height: 100%;
