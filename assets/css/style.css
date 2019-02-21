@@ -90,6 +90,9 @@ body {
 #hero-area.bg-4 {
   background-image: url("../imgs/work_bg.jpg");
 }
+#hero-area.bg-5 {
+  background-image: url("../imgs/WISP1.2.jpg");
+}
 #hero-area::after {
   content: "";
   position: absolute;
