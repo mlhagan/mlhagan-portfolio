@@ -255,6 +255,14 @@ body {
   color: #ffffff;
 }
 
+#footer-menu ul li a:hover {
+  color: #b56974;
+}
+
+#footer-menu ul li a:active {
+  color: #deb923;
+}
+
 .social-menu {
   margin: 0;
   padding: 0;
