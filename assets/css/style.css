@@ -510,7 +510,7 @@ body {
   background-color: rgba(44, 68, 61, 0.8);
   padding: 70px 24px;
   color: #fff;
-  position; relative;
+  position: relative;
 }
 
 .bg-5::before {
