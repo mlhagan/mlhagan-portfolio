@@ -721,6 +721,11 @@ span.menu-triggers {
   margin-right: -10px;
   margin-left: -10px;
 }
+
+.row .persona-wrapper{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  
 .col,
 .col-1,
 .col-10,
