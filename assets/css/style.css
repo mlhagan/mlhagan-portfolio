@@ -33,8 +33,12 @@ a:hover {
 }
 
 .logo img {
-  height: 120px;
   padding: 10px;
+  max-width: 75px;
+}
+
+.case-study img {
+  max-width: 55px;
 }
 
 #main-menu {
@@ -547,7 +551,9 @@ body {
 }
 .cs-para {
   line-height: 1.8;
-  font-size: 17px;
+  font-size: 16px;
+  max-width: 75ch;
+  margin: 30px auto;
 }
 .full-width-img img {
   width: 100%;
