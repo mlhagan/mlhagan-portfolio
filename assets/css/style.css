@@ -513,6 +513,10 @@ body {
   position: relative;
 }
 
+#cs-top .bg-5 {
+  background-image: url("../imgs/WISP1.2.jpg");
+}
+
 .bg-5::before {
   content: "";
   position: absolute;
