@@ -473,6 +473,8 @@ body {
 }
 #header.case-study {
   position: relative;
+  left: 0px !important;
+  padding-bottom: 30px;
   background: #2c443d;
 }
 
@@ -513,14 +515,11 @@ body {
   position: relative;
 }
 
-#cs-top .bg-5 {
-  background-image: url("../imgs/WISP1.2.jpg");
-}
-
 .bg-5::before {
   content: "";
   position: absolute;
   background-image: url("../imgs/WISP1.2.jpg");
+  background-size: cover;
   width: 100%;
   height: 100%;
   left: 0;
