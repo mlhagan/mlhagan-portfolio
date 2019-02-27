@@ -728,6 +728,9 @@ span.menu-triggers {
 .row .persona-wrapper{
   display: grid;
   grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+  max-width: 1000px;
+  margin: auto;
 }
 
 .col,
