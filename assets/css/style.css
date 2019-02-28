@@ -555,6 +555,8 @@ body {
   font-size: 16px;
   max-width: 75ch;
   margin: 30px auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 .full-width-img img {
   width: 100%;
